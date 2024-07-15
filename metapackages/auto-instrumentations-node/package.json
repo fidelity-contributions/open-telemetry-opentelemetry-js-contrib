@@ -1,6 +1,6 @@
 {
   "name": "@opentelemetry/auto-instrumentations-node",
-  "version": "0.48.0",
+  "version": "0.48.1",
   "description": "Metapackage which bundles opentelemetry node core and contrib instrumentations",
   "author": "OpenTelemetry Authors",
   "homepage": "https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/metapackages/auto-instrumentations-node#readme",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@opentelemetry/instrumentation": "^0.52.0",
-    "@opentelemetry/instrumentation-amqplib": "^0.39.0",
+    "@opentelemetry/instrumentation-amqplib": "^0.40.0",
     "@opentelemetry/instrumentation-aws-lambda": "^0.43.0",
     "@opentelemetry/instrumentation-aws-sdk": "^0.43.0",
     "@opentelemetry/instrumentation-bunyan": "^0.40.0",
@@ -59,7 +59,7 @@
     "@opentelemetry/instrumentation-cucumber": "^0.8.0",
     "@opentelemetry/instrumentation-dataloader": "^0.11.0",
     "@opentelemetry/instrumentation-dns": "^0.38.0",
-    "@opentelemetry/instrumentation-express": "^0.41.0",
+    "@opentelemetry/instrumentation-express": "^0.41.1",
     "@opentelemetry/instrumentation-fastify": "^0.38.0",
     "@opentelemetry/instrumentation-fs": "^0.14.0",
     "@opentelemetry/instrumentation-generic-pool": "^0.38.0",

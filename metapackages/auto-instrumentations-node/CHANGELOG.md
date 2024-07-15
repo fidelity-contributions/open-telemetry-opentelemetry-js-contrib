@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.48.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.48.0...auto-instrumentations-node-v0.48.1) (2024-07-15)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-amqplib bumped from ^0.39.0 to ^0.40.0
+    * @opentelemetry/instrumentation-express bumped from ^0.41.0 to ^0.41.1
+
 ## [0.48.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.47.1...auto-instrumentations-node-v0.48.0) (2024-07-03)
 
 
